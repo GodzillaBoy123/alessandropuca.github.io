@@ -26,10 +26,10 @@ author:
   avatar           : "FotoCv.png"
   name             : "Alessandro Puca"
   pronouns         : # example: "she/her"  
-  bio              : "Plant pathologist with a dual PhD in Agricultural and Environmental Sciences"
-  location         : "Earth"
+  bio              : "Plant pathologist with a dual PhD in Agricultural and Environmental Sciences (DAGRI, University of Florence & LVBE, Université de Haute-Alsace). Expertise in molecular techniques (qPCR, digital PCR, LAMP), expecially for invasive species detection. Knowleadgeable about fungal wood degradation processes."
+  location         : "Prato, Italy"
   employer         : "CNR - IPSP"
-  uri              : # URL
+  uri              : "http://www.ipsp.cnr.it/en/puca-alessandro-2/"
   email            : "alessandropuca@cnr.it" 
 
   # Academic websites
@@ -38,9 +38,9 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-4587-8912 "
+  orcid            : "https://orcid.org/0000-0002-4587-8912"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
