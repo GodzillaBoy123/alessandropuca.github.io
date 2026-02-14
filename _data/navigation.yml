@@ -11,9 +11,12 @@ main:
    - title: "CV"
     url: /cv/
     #url: /files/Resume.pdf
+
+ - title: "Research"
+    url: /Publications/
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=qZuSE8wAAAAJ
     
   - title: "Teaching"
     url: /teaching/   
